@@ -24,19 +24,6 @@ namespace EulerProblems.Problemas
                     Console.WriteLine(res);
                 }
             }
-            //var nums = Enumerable.Range(100, 999);
-            //foreach (var num in nums)
-            //{
-            //    foreach (var n in nums)
-            //    {
-            //        int mult = n * num;
-            //        if (IsPalindrome(mult) && mult > palindrome)
-            //        {
-            //            palindrome = mult;
-            //        }
-            //        Console.WriteLine(mult);
-            //    }
-            //}
             return palindrome;
         }
 
