@@ -1,2 +1,2 @@
-# eulerprojectsolutions
-Get solutions for the Euler project problems
+# epsolutions
+Get solutions for the EP problems
