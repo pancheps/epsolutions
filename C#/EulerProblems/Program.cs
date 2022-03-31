@@ -1,14 +1,12 @@
 ﻿
-//Console.WriteLine(EulerProblems.Problemas.Problema1.GetMultiplesSum(1000));
-//Console.WriteLine(EulerProblems.Problemas.Problema2.GetFibonacciEvenSum(10));
-//Console.WriteLine(EulerProblems.Problemas.GetDupSocks.GetDups(15, new List<int> { 6 ,5 ,2 ,3 ,5 ,2 ,2 ,1 ,1 ,5 ,1 ,3 ,3 ,3 ,5 }));
-//Console.WriteLine(EulerProblems.Problemas.CountingValleys.ValleysCount(2, "DU"));
-//Console.WriteLine(EulerProblems.Problemas.Problema3.GetLargestPrimeLong(600851475143));
-//Console.WriteLine(EulerProblems.Problemas.Problema4.GetLargestPalindrome3x3());
-//Console.WriteLine(EulerProblems.Problemas.Problema5.GetSmallestEvenlyDivisible(20));
-//Console.WriteLine(EulerProblems.Problemas.Problema6.GetSquaresSumMinusSquaredSum(100));
-//Console.WriteLine(EulerProblems.Problemas.Problema7.GetNthPrime(10001));
-//Console.WriteLine(EulerProblems.Problemas.Problema8.Largest13Product(@"73167176531330624919225119674426574742355349194934
+//Console.WriteLine(EulerProblems.Problemas.Problema001.GetMultiplesSum(1000));
+//Console.WriteLine(EulerProblems.Problemas.Problema002.GetFibonacciEvenSum(10));
+//Console.WriteLine(EulerProblems.Problemas.Problema003.GetLargestPrimeLong(600851475143));
+//Console.WriteLine(EulerProblems.Problemas.Problema004.GetLargestPalindrome3x3());
+//Console.WriteLine(EulerProblems.Problemas.Problema005.GetSmallestEvenlyDivisible(20));
+//Console.WriteLine(EulerProblems.Problemas.Problema006.GetSquaresSumMinusSquaredSum(100));
+//Console.WriteLine(EulerProblems.Problemas.Problema007.GetNthPrime(10001));
+//Console.WriteLine(EulerProblems.Problemas.Problema008.Largest13Product(@"73167176531330624919225119674426574742355349194934
 //96983520312774506326239578318016984801869478851843
 //85861560789112949495459501737958331952853208805511
 //12540698747158523863050715693290963295227443043557
@@ -28,4 +26,4 @@
 //84580156166097919133875499200524063689912560717606
 //05886116467109405077541002256983155200055935729725
 //71636269561882670428252483600823257530420752963450", 13));
-Console.WriteLine(EulerProblems.Problemas.Problema9.GetPythagoreanTripletsProduct());
+Console.WriteLine(EulerProblems.Problemas.Problema009.GetPythagoreanTripletsProduct());
