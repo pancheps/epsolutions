@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema4
+    internal class Problema004
     {
         public static int GetLargestPalindrome3x3()
         {

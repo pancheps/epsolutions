@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema6
+    internal class Problema006
     {
         public static int GetSquaresSumMinusSquaredSum(int count)
         {

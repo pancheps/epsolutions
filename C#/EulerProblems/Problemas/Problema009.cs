@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema9
+    internal class Problema009
     {
         public static int GetPythagoreanTripletsProduct()
         {

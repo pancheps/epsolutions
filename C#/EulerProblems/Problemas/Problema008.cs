@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema8
+    internal class Problema008
     {
         public static long Largest13Product(string number, int taken)
         {

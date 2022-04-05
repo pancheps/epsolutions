@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema5
+    internal class Problema005
     {
         public static int GetSmallestEvenlyDivisible(int n)
         {
