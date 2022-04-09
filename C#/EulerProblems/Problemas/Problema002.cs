@@ -1,7 +1,7 @@
 ﻿
 namespace EulerProblems.Problemas
 {
-    internal class Problema2
+    internal class Problema002
     {
         public static int GetFibonacciEvenSum(int num)
         {

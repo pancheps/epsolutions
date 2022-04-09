@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema7
+    internal class Problema007
     {
         public static int GetNthPrime(int n)
         {
