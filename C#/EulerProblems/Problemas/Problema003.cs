@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema003
+    internal class Problema3
     {
         public static long GetLargestPrimeLong(long num)
         {
