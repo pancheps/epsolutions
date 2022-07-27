@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EulerProblems.Problemas
 {
-    internal class Problema001
+    internal class Problema1
     {
         public static int GetMultiplesSum(int num)
         {
